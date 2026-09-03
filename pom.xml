@@ -96,9 +96,10 @@
 							</annotationProcessorPaths>
 						</configuration>
 					</execution>
-				</executions>
+				</executions
 			</plugin>
 		</plugins>
+		<finalName>${artifactId}</finalName>
 	</build>
 
 </project>
